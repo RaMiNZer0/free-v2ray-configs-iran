@@ -1,0 +1,4 @@
+# XBiT VPN Free Trial Subscription Node
+# Website: https://xbitvpn.tech
+# Telegram: https://t.me/xbitvpn
+vless://a18f92b4-7d52-4a92-8051-e374826190cf@de-free.xbitvpn.com:443?security=reality&encryption=none&pbk=fK83Dsl9Qe1Zz4W1M9vK0LoX82nJp07gYx64aBdEfGh&headerType=none&type=tcp&sni=speedtest.net&sid=48bf&flow=xtls-rprx-vision#XBiT-Free-Trial-Germany
